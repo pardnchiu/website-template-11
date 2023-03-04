@@ -4,7 +4,7 @@
 
 - 預覽: [Github.io](https://pardnchiu.github.io/website-template-11/)
 - 源碼: [Github.com](https://github.com/pardnchiu/website-template-11/)
-- 授權: [MIT LICENSE](https://github.com/pardnchiu/website-template-11/blob/main/LICENSE)
+- 授權: [MIT LICENSE](https://pardnchiu.github.io/website-template-11/LICENSE)
 - 開發: [Pardn Chiu 邱敬幃](https://pardnchiu.github.io/)
 
 ***
