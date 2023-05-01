@@ -1,8 +1,5 @@
 # Website Template 網站模板 11
 
-- [Github.io](https://pardnchiu.github.io/website-template-11/)
-- [Github.com](https://github.com/pardnchiu/website-template-11/)
-- [MIT LICENSE](./LICENSE)
 - Html, Css/Sass, Javascript
 - [Font Awesome 6](https://fontawesome.com/v6/search)
 
@@ -17,10 +14,11 @@
 ***
 
 | Preview |
-| --- |
-| ![Website Template 網站模板 11](./image/index.jpg) |
+|---|
+| ![Website Template 網站模板 11 預覽](./image/index.jpg) |
 
 ***
 
 Copyright (c) 2022 [Pardn Ltd 帕登國際有限公司](https://joball.tw/@pardnltd)
+
 
